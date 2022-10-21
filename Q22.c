@@ -24,6 +24,23 @@ int main(){
         }
         printf("\n");
     }
+    
+  // another way -->
+  for(int e = 5; e >= 1; e--){
+        for(int a = 1; a <= e; a++){
+            printf("%d",a);
+        }
+        for(int b = 1; b <= 5 - e; b++){
+            printf("*");
+        }
+        for(int c = 1; c <= 5 - e; c++){
+            printf("*");
+        }
+        for(int d = e; d >= 1; d--){
+            printf("%d",d);
+        }
+        printf("\n");
+    }
   
   return 0;
 }

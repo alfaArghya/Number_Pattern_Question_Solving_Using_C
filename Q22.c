@@ -25,7 +25,7 @@ int main(){
         printf("\n");
     }
     
-  // another way -->
+  // another way -->        **devided the pattern into 4 pieces(make the pattern and massage me)
   for(int e = 5; e >= 1; e--){
         for(int a = 1; a <= e; a++){
             printf("%d",a);

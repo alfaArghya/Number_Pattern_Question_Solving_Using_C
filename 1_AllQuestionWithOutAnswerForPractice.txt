@@ -1,6 +1,6 @@
 If any one want to solve questions before seeing the answer of it......so here it is All question together for u.
 
-Q. Solve every question using C language.
+Q. Print every question on screen using C language.
 
 Q01.
 
